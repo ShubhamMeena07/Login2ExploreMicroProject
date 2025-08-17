@@ -32,9 +32,7 @@ JsonPowerDB (REST API)
 
 🧩 JsonPowerDB Configuration
 The project uses a predefined API token and database configuration:
-
-Token: 90934947|-31949251926420103|90959499
-
+Token NO. 0000000000000000000000
 Database: SCHOOL-DB
 
 Relation/Table: STUDENT-TABLE
@@ -104,3 +102,4 @@ Portfolio -> https://shubhammeena.netlify.app/
 
 📜 License
 This project is given by Login2Explore .
+
